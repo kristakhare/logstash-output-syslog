@@ -1,6 +1,7 @@
 # Logstash Plugin
 
 [![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-syslog.svg)](https://travis-ci.org/logstash-plugins/logstash-output-syslog)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Flogstash-output-syslog.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Flogstash-output-syslog?ref=badge_shield)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
@@ -96,3 +97,6 @@ Programming is not a required skill. Whatever you've seen about open source and 
 It is more important to the community that you are able to contribute.
 
 For more information about contributing, see the [CONTRIBUTING](https://github.com/elastic/logstash/blob/master/CONTRIBUTING.md) file.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Flogstash-output-syslog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Flogstash-output-syslog?ref=badge_large)
